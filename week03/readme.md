@@ -1,4 +1,4 @@
-# Weekly Contest 301
+# Weekly Contest 301 (6/3 온라인)
 > [바로 가기](https://leetcode.com/contest/weekly-contest-302/)
 
 ####
