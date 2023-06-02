@@ -10,7 +10,7 @@
 ####
 [solution]()
 ####
-### 👀 [2343. Query Kth Smallest Trimmed Number]([https://leetcode.com/contest/weekly-contest-301/problems/move-pieces-to-obtain-a-string/](https://leetcode.com/contest/weekly-contest-302/problems/query-kth-smallest-trimmed-number/))(Medium)
+### 👀 [2343. Query Kth Smallest Trimmed Number](https://leetcode.com/contest/weekly-contest-302/problems/query-kth-smallest-trimmed-number/)(Medium)
 ####
 [solution]()
 ####
