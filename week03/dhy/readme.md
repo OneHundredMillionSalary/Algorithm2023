@@ -12,9 +12,8 @@
 ####
 ### 👀 [2343. Query Kth Smallest Trimmed Number](https://leetcode.com/contest/weekly-contest-302/problems/query-kth-smallest-trimmed-number/)(Medium)
 ####
-[solution]()
 ####
 ### 👀 [2344. Minimum Deletions to Make Array Divisible](https://leetcode.com/contest/weekly-contest-302/problems/minimum-deletions-to-make-array-divisible/)(Hard)
 ####
-[solution]()
+
 
