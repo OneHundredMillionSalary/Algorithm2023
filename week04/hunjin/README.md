@@ -10,8 +10,9 @@
 ####
 [solution](https://github.com/KimHunJin/Study-Book/blob/master/algorithm/src/leetcode/LC_2352.ts)
 ####
-### 👀 [2343. Query Kth Smallest Trimmed Number](https://leetcode.com/problems/design-a-Food-Rating-System)(Medium)
+### 👀 [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-Food-Rating-System)(Medium)
 ####
+[solution](https://github.com/KimHunJin/Study-Book/blob/master/algorithm/src/leetcode/LC_2353.ts)
 ####
 ### 👀 [2344. Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/number-of-excellent-pairs)(Hard)
 ####
